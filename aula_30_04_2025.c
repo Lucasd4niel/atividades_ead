@@ -4,6 +4,7 @@ int main(void)
 {
     int a, b, a_simp, b_simp, maior, i;
     scanf("%d/%d", &a, &b);
+    i = 1;
     if(a >= b)
     {
         maior = a;
